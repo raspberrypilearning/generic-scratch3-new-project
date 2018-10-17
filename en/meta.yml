@@ -1,11 +1,14 @@
-title: generic-scratch3-new-project
+title: Creating a new Scratch project
 hero_image: images/banner.png
-description: generic-scratch3-new-project description
-version: 4
+description: Create a new Scratch project
+original_url:
+theme: cc-prototype
+duration: 1 # 1, 2 or 3
+curriculum:
 listed: false
-copyedit: false
-last_tested: "2018-10-17"
+ingredient: true
+copyedit: true
+interests:
+technologies: "scratch"
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+  - title: Create a new project
