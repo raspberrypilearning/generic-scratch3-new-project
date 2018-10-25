@@ -6,7 +6,7 @@ You can use Scratch online or offline.
 
 The Scratch editor looks like this:
 
-![snímka obrazovky](images/scratch-editor.png)
+![screenshot](images/scratch-editor.png)
 
 + The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
 
