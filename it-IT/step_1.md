@@ -10,4 +10,4 @@ The Scratch editor looks like this:
 
 + The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
 
-![schermata](images/delete.png)
+![screenshot](images/delete.png)
