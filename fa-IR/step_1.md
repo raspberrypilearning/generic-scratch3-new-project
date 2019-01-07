@@ -1,13 +1,13 @@
 شما می توانید از اسکرچ به صورت آنلاین یا آفلاین استفاده کنید.
 
-+ **Online** - to create a new Scratch project using the online editor, go to <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **آنلاین** - برای ایجاد یک پروژه‌ی جدید اسکرچ با استفاده از ویرایشگر آنلاین، به <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a> بروید
 
-+ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **آفلاین** - اگر ترجیح می‌دهید آفلاین کار کنید و هنوز ویرایشگر را نصب نکرده‌اید، می‌توانید آن را از <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a> دانلود نمایید
 
 ویرایشگر اسکرچ مانند این است:
 
-![screenshot](images/scratch-editor.png)
+![عکس صفحه](images/scratch-editor.png)
 
-+ The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
++ شبح گربه که آن را می‌بینید، نماد اسکرچ است. اگر شما نیاز به یک پروژه خالی در اسکرچ دارید، می‌توانید با کلیک راست بر روی گربه و سپس کلیک روی **delete** آن را حذف کنید.
 
-![screenshot](images/delete.png)
+![عکس صفحه](images/delete.png)
