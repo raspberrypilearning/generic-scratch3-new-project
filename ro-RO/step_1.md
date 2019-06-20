@@ -1,13 +1,13 @@
 Puteți utiliza Scratch online sau offline.
 
-+ **Online** - pentru a creea un nou proiect Scratch folosind editorul online, mergeți la <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-nou</a>
++ **Online** - to create a new Scratch project using the online editor, go to <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **Offline** - dacă alegeți să lucrați offline și nu aveți editorul instalat deja, îl puteți descărca chiar de aici <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 Editorul Scratch arată astfel:
 
 ![captură de ecran](images/scratch-editor.png)
 
-+ Sprite-ul pisică, pe care-l puteți vedea, este chiar mascota Scratch. Dacă doriți un proiect Scratch gol, puteți șterge pisica, apăsând pe click dreapta și apoi pe **șterge**.
++ The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
 
 ![captură de ecran](images/delete.png)
