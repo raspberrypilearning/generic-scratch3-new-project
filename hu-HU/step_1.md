@@ -1,13 +1,13 @@
 A Scratchet online vagy offline módban is használhatod.
 
-+ **Online** - to create a new Scratch project using the online editor, go to <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **Online** - ha az online szerkesztőben szeretnél új Scratch projektet létrehozni, ugorj a <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a> címre
 
-+ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **Offline** - ha offline módban szeretnél dolgozni, és még nem telepítetted a szerkesztőt, akkor innen töltheted le: <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 A Scratch szerkesztő így néz ki:
 
 ![képernyőkép](images/scratch-editor.png)
 
-+ The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
++ A macska, akit láthatsz, a Scratch kabalafigurája. Ha üres Scratch projektet szeretnél, törölheted a macskát úgy, hogy rákattintasz jobb gombbal, majd kiválasztod a **törlés** menüpontot.
 
 ![képernyőkép](images/delete.png)
