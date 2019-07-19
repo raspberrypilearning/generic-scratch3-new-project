@@ -8,6 +8,6 @@
 
 ![스크린샷](images/scratch-editor.png)
 
-+ 당신에게 보여지는 이 고양이 스프라이트는 스크래치의 마스코트입니다. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
++ 당신에게 보여지는 고양이 스프라이트는 스크래치의 마스코트입니다. 만약 빈 스크래치 프로젝트가 필요하면 마우스 오른쪽 버튼을 클릭한 다음 **삭제**를 클릭하여 고양이를 삭제할 수 있습니다.
 
 ![스크린샷](images/delete.png)
