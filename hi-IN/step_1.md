@@ -1,6 +1,6 @@
 आप स्क्रैच को ऑनलाइन या ऑफ़लाइन उपयोग कर सकते हैं।
 
-+ **Online** - to create a new Scratch project using the online editor, go to <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ ** ऑनलाइन ** - ऑनलाइन एडिटर के साथ एक नया स्क्रैच प्रोजेक्ट बनाने के लिए, <a href="http://rpf.io/scratch-new" target="_blank"> rpf.io/scratch-new </a> पर जाएं
 
 + **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
