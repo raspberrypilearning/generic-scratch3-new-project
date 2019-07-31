@@ -8,6 +8,6 @@
 
 ![لقطة الشاشة](images/scratch-editor.png)
 
-+ The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
++ كائن القطة الذي تراه هو جالب الحظ لـ Scratch. إذا كنت تريد البدأ بمشروع Scratch فارغ، بإمكانك حذف القطه بالنقر على زر الفأرة الأيمن ثم النقر على **حذف**.
 
 ![لقطة الشاشة](images/delete.png)
