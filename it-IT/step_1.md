@@ -8,6 +8,6 @@ L'editor di Scratch ha questo aspetto:
 
 ![screenshot](images/scratch-editor.png)
 
-+ The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
++ Lo sprite del gatto che vedi è la mascotte Scratch. Se hai bisogno di un progetto Scratch vuoto, puoi eliminare il gatto facendo clic con il tasto destro del mouse e quindi facendo clic su ** cancella**.
 
 ![schermata](images/delete.png)
