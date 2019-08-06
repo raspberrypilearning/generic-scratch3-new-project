@@ -1,13 +1,13 @@
-You can use Scratch online or offline.
+ඔබට Scratch ඔන්ලයින් ජාල ගතව හො මාර්ග අපගතව භාවිතා කළ හැකිය.
 
-+ **Online** - to create a new Scratch project using the online editor, go to <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **ජාල ගතව** - ජාල ගත සංස්කාරකය භාවිතා කරමින් නව Scratch ව්යාපෘතියක් නිර්මාණය කිරීම සඳහා, <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a> වෙත යන්න
 
-+ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **අන්තර්ජාලයට නොබැඳිව** - ඔබ අන්තර්ජාලයට නොබැඳිව වැඩ කිරීමට කැමති නම් සහ තවමත් සංස්කාරකය ස්ථාපනය කර නොමැති නම්, ඔබට එය <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>වෙතින් බාගත හැකිය.
 
-The Scratch editor looks like this:
+Scratch සංස්කාරකය මෙවැන්නකි:
 
-![screenshot](images/scratch-editor.png)
+![පින්තුරය](images/scratch-editor.png)
 
-+ The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
++ ඔබට දැකිය හැකි sprite බළලා යනු Scratch හි මැස්කොට් වරයායි. ඔබට නැවුම් හිස් Scratch ව්යාපෘතියක් අවශ්‍ය නම්, ඔබ විසින් කළයුත්තේ බළලා මත දකුණු ක්ලික් බොත්තම ඔබා **delete** තේරීමයි.
 
 ![screenshot](images/delete.png)
