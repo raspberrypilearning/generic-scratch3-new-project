@@ -6,8 +6,8 @@ Saad Scratchi kasutada, olles võrku ühendatud ja ka väljaspool seda.
 
 Scratchi redaktor näeb välja selline:
 
-![screenshot](images/scratch-editor.png)
+![kuvatõmmis](images/scratch-editor.png)
 
-+ Kassi sprait, mida näete, on Scratchi maskott. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
++ Kassi sprait, mida näete, on Scratchi maskott. Kui sul on vaja tühja Scratchi projekti, saad kassi kustutada, paremklõpsates sellel ja seejärel klõpsates **kustuta**.
 
-![screenshot](images/delete.png)
+![kuvatõmmis](images/delete.png)
