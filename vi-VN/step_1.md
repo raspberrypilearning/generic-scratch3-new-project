@@ -6,8 +6,8 @@ Bạn có thể sử dụng Scratch trực tuyến hoặc ngoại tuyến.
 
 Trình soạn thảo Scratch trông giống như sau:
 
-![screenshot](images/scratch-editor.png)
+![ảnh chụp màn hình](images/scratch-editor.png)
 
-+ The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
++ Hình ảnh con mèo mà bạn có thể thấy là linh vật Scratch. Nếu bạn cần một dự án Scratch trống, bạn có thể xóa con mèo bằng cách nhấp chuột phải vào nó và sau đó nhấp vào **xóa**.
 
-![screenshot](images/delete.png)
+![ảnh chụp màn hình](images/delete.png)
