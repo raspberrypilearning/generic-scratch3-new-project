@@ -1,13 +1,13 @@
-Možeš koristiti Scratch na Internetu ili bez Interneta.
+Možeš koristiti Scratch online ili offline.
 
-+ **Online** - to create a new Scratch project using the online editor, go to <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **Online** - za stvaranje novog Scratch projekta pomoću online uređivača, idi na <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **Offline** - ako želiš raditi na projektu bez interneta i još nemaš instaliran uređivač, možeš ga preuzeti sa <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
-Scratch aplikacija izgleda ovako:
+Scratch uređivač izgleda ovako:
 
-![screenshot](images/scratch-editor.png)
+![snimka zaslona](images/scratch-editor.png)
 
 + Lik mačke koji možeš vidjeti je maskota Scratcha. Ako ti je potreban prazan Scratch projekt, možeš izbrisati mačku tako da klikneš na nju desnom tipkom miša i zatim odabereš **obriši**.
 
-![screenshot](images/delete.png)
+![snimka zaslona](images/delete.png)
