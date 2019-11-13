@@ -1,13 +1,13 @@
-スクラッチはオンラインまたはオフラインで使用できます。
+Scratch (スクラッチ) はオンラインまたはオフラインで使用できます。
 
-+ **Online** - to create a new Scratch project using the online editor, go to <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **オンライン** - <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>からオンラインエディタで新しいプロジェクトを作ることができます。
 
-+ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **オフライン** - オフラインで作業したい時は、<a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>からエディタをダウンロードできます。
 
-スクラッチのエディターは次のようになります。
+Scratchのエディタは次のようになります。
 
 ![スクリーンショット](images/scratch-editor.png)
 
-+ The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
++ ネコはScratchのマスコットです。 何もないプロジェクトから始めたい時は、ネコを右クリックしてから**削除**(さくじょ)をクリックすることでネコを消すことができます。
 
 ![スクリーンショット](images/delete.png)
