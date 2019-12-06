@@ -8,6 +8,6 @@ Scratch-editori näyttää tältä:
 
 ![ruutukaappaus](images/scratch-editor.png)
 
-+ Kissahahmo, jonka voit nähdä, on Scratch-maskotti. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
++ Kissahahmo, jonka voit nähdä, on Scratch-maskotti. Jos tarvitset tyhjän Scratch-projektin, voit poistaa kissan napsauttamalla sitä hiiren kakkospainikkeella ja napsauttamalla sitten **Poista**.
 
-![screenshot](images/delete.png)
+![ruutukaappaus](images/delete.png)
