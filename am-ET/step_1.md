@@ -1,4 +1,4 @@
-You can use Scratch online or offline.
+ስክራችን መስመር ላይ ወይም ከመስመር ውጭ መጠቀም ይችላሉ::
 
 + **Online** - to create a new Scratch project using the online editor, go to <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
@@ -10,4 +10,4 @@ The Scratch editor looks like this:
 
 + The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
 
-![screenshot](images/delete.png)
+![ስክሪን ሹት](images/delete.png)
