@@ -1,13 +1,13 @@
-You can use Scratch online or offline.
+你可以選擇在線或離線使用 Scratch。
 
-+ **Online** - to create a new Scratch project using the online editor, go to <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **在線** - 要使用線上編輯器新建 Scratch 專案，可從 <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a> 開始
 
-+ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **離線** - 要離線工作，但還沒有安裝編輯器，可至 <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a> 下載
 
-The Scratch editor looks like this:
+Scratch 編輯器看起來像這樣：
 
-![screenshot](images/scratch-editor.png)
+![截圖](images/scratch-editor.png)
 
-+ The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
++ 畫面中的貓咪角色是 Scratch 的吉祥物。 如果你要空白的 Scratch 專案，可以在牠身上點擊滑鼠右鍵並選擇**刪除**牠。
 
-![screenshot](images/delete.png)
+![截圖](images/delete.png)
