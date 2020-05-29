@@ -1,13 +1,13 @@
-You can use Scratch online or offline.
+Puedes usar Scratch en línea o sin conexión.
 
-+ **Online** - to create a new Scratch project using the online editor, go to <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ ** En Línea ** - para crear un nuevo proyecto Scratch usando el editor en línea, debes ir a <a href="http://rpf.io/scratch-new" target="_blank"> rpf.io/scratch-new </a>
 
-+ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ ** Sin conexión ** - Si prefieres trabajar sin conexión y aún no has instalado el editor, puedes descargarlo desde <a href="http://rpf.io/scratch-off" target="_blank"> rpf.io/scratch-off </a>
 
-The Scratch editor looks like this:
+El editor de Scratch se ve así:
 
-![screenshot](images/scratch-editor.png)
+![captura de pantalla](images/scratch-editor.png)
 
-+ The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
++ El objeto de gato que puedes ver, es la mascota de Scratch. Si necesitas un proyecto Scratch vacío, puedes eliminar el gato haciendo clic con el botón derecho y luego presionar ** eliminar **.
 
-![screenshot](images/delete.png)
+![captura de pantalla](images/delete.png)
