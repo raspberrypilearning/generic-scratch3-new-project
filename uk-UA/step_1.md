@@ -6,8 +6,8 @@
 
 Редактор Скретч виглядає так:
 
-![screenshot](images/scratch-editor.png)
+![знімок екрана](images/scratch-editor.png)
 
-+ The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
++ Спрайт кота, який ти бачиш, — це символ Скретч. Якщо тобі потрібен порожній проєкт, ти можеш видалити кота, клацнувши на ньому правою кнопкою миші і вибравши пункт **вилучити**.
 
-![screenshot](images/delete.png)
+![знімок екрана](images/delete.png)
