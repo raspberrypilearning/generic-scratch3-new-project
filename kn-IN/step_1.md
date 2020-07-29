@@ -1,13 +1,13 @@
-You can use Scratch online or offline.
+ನೀವು ಸ್ಕ್ರ್ಯಾಚ್ ಅನ್ನು ಆನ್‌ಲೈನ್ ಅಥವಾ ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಬಳಸಬಹುದು.
 
-+ **Online** - to create a new Scratch project using the online editor, go to <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **ಆನ್‌ಲೈನ್** - ಆನ್‌ಲೈನ್ ಸಂಪಾದಕವನ್ನು ಬಳಸಿಕೊಂಡು ಹೊಸ ಸ್ಕ್ರ್ಯಾಚ್ ಯೋಜನೆಯನ್ನು ರಚಿಸಲು, <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a> ಗೆ ಹೋಗಿ
 
-+ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **ಆಫ್‌ಲೈನ್** - ನೀವು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಕೆಲಸ ಮಾಡಲು ಬಯಸಿದರೆ ಮತ್ತು ಇನ್ನೂ ಸಂಪಾದಕವನ್ನು ಸ್ಥಾಪಿಸದಿದ್ದರೆ, ನೀವು ಅದನ್ನು <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a> ನಿಂದ ಡೌನ್‌ಲೋಡ್ ಮಾಡಬಹುದು
 
-The Scratch editor looks like this:
+ಸ್ಕ್ರ್ಯಾಚ್ ಸಂಪಾದಕವು ಈ ರೀತಿ ಕಾಣುತ್ತದೆ:
 
-![screenshot](images/scratch-editor.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/scratch-editor.png)
 
-+ The cat sprite that you can see is the Scratch mascot. If you need an empty Scratch project, you can delete the cat by right-clicking it and then clicking **delete**.
++ ನೀವು ನೋಡಬಹುದಾದ ಬೆಕ್ಕಿನ ಸ್ಪ್ರೈಟ್ ಸ್ಕ್ರ್ಯಾಚ್ ಮ್ಯಾಸ್ಕಾಟ್ ಆಗಿದೆ. ನಿಮಗೆ ಖಾಲಿ ಸ್ಕ್ರ್ಯಾಚ್ ಪ್ರಾಜೆಕ್ಟ್ ಅಗತ್ಯವಿದ್ದರೆ, ನೀವು ಬೆಕ್ಕನ್ನು ಬಲ ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ ಅಳಿಸಬಹದು ನಂತರ **delete** ಕ್ಲಿಕ್ ಮಾಡಿ.
 
-![screenshot](images/delete.png)
+![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/delete.png)
