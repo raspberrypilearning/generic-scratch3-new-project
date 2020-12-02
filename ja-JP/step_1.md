@@ -1,8 +1,8 @@
 Scratch (スクラッチ) はオンラインまたはオフラインで使用できます。
 
-+ **オンライン** - <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>からオンラインエディタで新しいプロジェクトを作ることができます。
++ **オンライン** - <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>からオンラインエディタで新しいプロジェクトを作ることができます。
 
-+ **オフライン** - オフラインで作業したい時は、<a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>からエディタをダウンロードできます。
++ **オフライン** - オフラインで作業したい時は、<a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>からエディタをダウンロードできます。
 
 Scratchのエディタは次のようになります。
 
