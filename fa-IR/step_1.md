@@ -1,8 +1,8 @@
 شما می توانید از اسکرچ به صورت آنلاین یا آفلاین استفاده کنید.
 
-+ **آنلاین** - برای ایجاد یک پروژه‌ی جدید اسکرچ با استفاده از ویرایشگر آنلاین، به <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a> بروید
++ **Online** - to create a new Scratch project using the online editor, go to <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **آفلاین** - اگر ترجیح می‌دهید آفلاین کار کنید و هنوز ویرایشگر را نصب نکرده‌اید، می‌توانید آن را از <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a> دانلود نمایید
++ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 ویرایشگر اسکرچ مانند این است:
 
