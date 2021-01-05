@@ -1,8 +1,8 @@
 Maaari mong gamitin online o offline ang Scratch.
 
-+ **Online** - upang lumikha ng isang bagong proyekto ng Scratch gamit ang online editor, pumunta sa <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **Online** - to create a new Scratch project using the online editor, go to <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **Offline** - kung mas gusto mong magtrabaho sa offline at hindi pa nai-install ang editor, maaari mo itong mai-download mula sa <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 Ganito ang itsura ng editor sa Scratch:
 
