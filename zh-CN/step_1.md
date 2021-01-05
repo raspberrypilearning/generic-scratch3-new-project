@@ -1,8 +1,8 @@
 你可以在线使用Scratch或者离线使用。
 
-+ **在线** - 要使用在线编辑器创建一个新的Scratch项目，点击<a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **Online** - to create a new Scratch project using the online editor, go to <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **离线** - 如果您想离线工作但尚未安装编辑器，可以从<a href="http://rpf.io/scratch-off" target="_blank"> rpf.io/scratch-off</a>下载
++ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 Scratch编辑器看上去就像这样：
 
