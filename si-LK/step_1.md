@@ -1,8 +1,8 @@
 ඔබට Scratch ඔන්ලයින් ජාල ගතව හො ජාල අපගතව භාවිතා කළ හැකිය.
 
-+ **ජාල ගතව** - ජාල ගත සංස්කාරකය භාවිතා කරමින් නව Scratch ව්යාපෘතියක් නිර්මාණය කිරීම සඳහා, <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a> වෙත යන්න
++ **Online** - to create a new Scratch project using the online editor, go to <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **ජාල අපගතව** - ඔබ අන්තර්ජාලයට නොබැඳිව වැඩ කිරීමට කැමති නම් සහ තවමත් සංස්කාරකය ස්ථාපනය කර නොමැති නම්, ඔබට එය <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>වෙතින් බාගත හැකිය.
++ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 Scratch සංස්කාරකය මෙවැන්නකි:
 
