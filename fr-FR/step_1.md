@@ -1,8 +1,8 @@
 Tu peux utiliser Scratch en ligne ou hors ligne.
 
-+ **En ligne** - Pour créer un nouveau projet Scratch à l'aide de l'éditeur en ligne, accède à <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **Online** - to create a new Scratch project using the online editor, go to <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **Hors-ligne** - Si tu préfères travailler hors ligne et n'as pas encore installé l'éditeur, tu peux le télécharger depuis <a href="http://rpf.io/scratch-off" target="_blank">jumpto.cc/scratch-off</a>
++ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 L'éditeur Scratch ressemble à ceci:
 
