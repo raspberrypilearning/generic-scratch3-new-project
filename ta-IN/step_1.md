@@ -1,8 +1,8 @@
 நீங்கள் Scratch-ஐ ஆன்லைன் அல்லது ஆஃப்லைனில் பயன்படுத்தலாம்.
 
-+ **ஆன்லைன்(நிகழ்நிலை)** - நிகழ்நிலை பதிப்பானை (online editor) பயன்படுத்தி, ஒரு புதிய Scratch திட்டத்தை உருவாக்க, இங்கு செல்லவும் <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **Online** - to create a new Scratch project using the online editor, go to <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **ஆஃப்லைன்(அகல்நிலை)** - நீங்கள் அகல்நிலையில் இந்த திட்டத்தில் வேலை செய்ய விரும்புகிறீர்கள், மேலும், நீங்கள் இன்னும் பதிப்பானை(editor) நிறுவவில்லை எனில், அதை நீங்கள் இங்கிருந்து <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a> பதிவிறக்கலாம்
++ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 Scratch பதிப்பான் பின்வருமாறு இருக்கும்:
 
