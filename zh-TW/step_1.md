@@ -1,8 +1,8 @@
 你可以選擇在線或離線使用 Scratch。
 
-+ **在線** - 要使用線上編輯器新建 Scratch 專案，可從 <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a> 開始
++ **Online** - to create a new Scratch project using the online editor, go to <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **離線** - 要離線工作，但還沒有安裝編輯器，可至 <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a> 下載
++ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 Scratch 編輯器看起來像這樣：
 
