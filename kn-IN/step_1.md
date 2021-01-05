@@ -1,8 +1,8 @@
 ನೀವು Scratch ಅನ್ನು ಆನ್‌ಲೈನ್ ಅಥವಾ ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಬಳಸಬಹುದು.
 
-+ **ಆನ್‌ಲೈನ್** - ಆನ್‌ಲೈನ್ ಸಂಪಾದಕವನ್ನು ಬಳಸಿಕೊಂಡು ಹೊಸ Scratch ಯೋಜನೆಯನ್ನು ರಚಿಸಲು, <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a> ಗೆ ಹೋಗಿ
++ **Online** - to create a new Scratch project using the online editor, go to <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **ಆಫ್‌ಲೈನ್** - ನೀವು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಕೆಲಸ ಮಾಡಲು ಬಯಸಿದರೆ ಮತ್ತು ಇನ್ನೂ ಸಂಪಾದಕವನ್ನು ಸ್ಥಾಪಿಸದಿದ್ದರೆ, ನೀವು ಅದನ್ನು <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a> ನಿಂದ ಡೌನ್‌ಲೋಡ್ ಮಾಡಬಹುದು
++ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 Scratch ಸಂಪಾದಕವು ಈ ರೀತಿ ಕಾಣುತ್ತದೆ:
 
