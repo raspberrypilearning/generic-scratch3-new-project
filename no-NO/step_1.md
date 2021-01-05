@@ -1,8 +1,8 @@
 Du kan bruke Scratch online på nettet eller frakoblet.
 
-+ **Online** - for å lage et nytt Scratch-prosjekt ved hjelp av online-editoren, gå til <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **Online** - for å lage et nytt Scratch-prosjekt ved hjelp av online-editoren, gå til <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **Frakoblet** - Hvis du foretrekker å jobbe frakoblet og ikke har installert programmet ennå, kan du laste det ned fra <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **Frakoblet** - Hvis du foretrekker å jobbe frakoblet og ikke har installert programmet ennå, kan du laste det ned fra <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 Scratch-programmet ser slik ut:
 
