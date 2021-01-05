@@ -1,8 +1,8 @@
 Możesz używać Scratch w wersji online lub offline.
 
-+ **Online** - aby utworzyć nowy projekt Scratch za pomocą edytora online, przejdź do <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **Online** - to create a new Scratch project using the online editor, go to <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **Offline** - jeśli wolisz pracować w trybie offline i nie zainstalowałeś jeszcze edytora, możesz pobrać go z <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 Edytor Scratch wygląda następująco:
 
