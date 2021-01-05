@@ -1,8 +1,8 @@
 Saad Scratchi kasutada, olles võrku ühendatud ja ka väljaspool seda.
 
-+ **Võrgus olles** - uue Scratchi projekti loomiseks veebiredaktori abil mine <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **Online** - to create a new Scratch project using the online editor, go to <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **Võrgust väljas** - kui soovid töötada võrguühenduseta ja pole veel redaktorit installinud, saad selle alla laadida <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 Scratchi redaktor näeb välja selline:
 
