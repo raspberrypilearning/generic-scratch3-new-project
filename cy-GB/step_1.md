@@ -1,8 +1,8 @@
 Gallwch chi ddefnyddio Scratch ar-lein neu all-lein.
 
-+ **Arlein** - i greu prosiect Scratch newydd yn defnyddio'r golygydd arlein, ewch i <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **Online** - to create a new Scratch project using the online editor, go to <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **All-lein** - os oes well gyda chi weithio all-lein a heb osod y golygydd eto, mae modd ei lawrlwytho o <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 Mae golygydd Scratch yn edrych fel hyn:
 
