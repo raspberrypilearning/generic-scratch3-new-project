@@ -1,8 +1,8 @@
 Scratch lahko uporabljaš z ali brez omrežne povezave.
 
-+ **Spletni urejevalnik** - da bi ustvaril nov Scratch projekt s pomočjo spletnega urejevalnika, pojdi na <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **Online** - to create a new Scratch project using the online editor, go to <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **Urejevalnik brez povezave** - če želiš delati brez omrežne povezave in še nisi namestil urejevalnika, ga lahko naložiš iz <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 Scratch urejevalnik je videti takole:
 
