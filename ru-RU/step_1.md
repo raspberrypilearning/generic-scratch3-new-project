@@ -1,8 +1,8 @@
 Ты можешь использовать Скретч онлайн (на сайте) и офлайн (без необходимости подключаться к Интернету).
 
-+ **Онлайн** — для создания нового проекта Скретч с помощью онлайн-редактора перейдите на <a href="http://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **Online** - to create a new Scratch project using the online editor, go to <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **Оффлайн** — если вы предпочитаете работать в автономном режиме и пока не установили редактор, вы можете скачать его тут: <a href="http://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 Редактор Скретч выглядит так:
 
