@@ -1,8 +1,8 @@
 Pots utilitzar Scratch en línia o fora de línia.
 
-+ **Online** - to create a new Scratch project using the online editor, go to <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **En línia** - per crear un projecte nou de Scratch utilitzant l'editor en línia, ves a <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
 
-+ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **Fora de línia** - si prefereixes treballar sense connexió i encara no has instal·lat l'editor, pots baixar-lo des de <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
 L'editor Scratch té aquest aspecte:
 
