@@ -1,13 +1,13 @@
 आप स्क्रैच को ऑनलाइन या ऑफ़लाइन उपयोग कर सकते हैं।
 
-+ **Online** - to create a new Scratch project using the online editor, go to <a href="https://rpf.io/scratch-new" target="_blank">rpf.io/scratch-new</a>
++ **Online** - ऑनलाइन एडिटर से एक नया स्क्रैच प्रोजेक्ट बनाने के लिए, <a href="https://rpf.io/scratch-new" target="_blank"> rpf.io/scratch-new </a> पर जाएं
 
-+ **Offline** - if you prefer to work offline and have not installed the editor yet, you can download it from <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
++ **Offline** - अगर आप ऑफलाइन, यानि की बिना इंटरनेट, काम करना चाहते हैं और आपने अभी तक एडिटर को डाउनलोड नहीं किया है, तोह आप यहाँ से कर सकते हैं: <a href="https://rpf.io/scratch-off" target="_blank">rpf.io/scratch-off</a>
 
-स्क्रैच एडिटर इस प्रकार दिखाई देता है:
+स्क्रैच एडिटर इस तरह दिखती है:
 
-![स्क्रीनशॉट](images/scratch-editor.png)
+![screenshot](images/scratch-editor.png)
 
-+ बिल्ली स्प्राइट जो आप देख सकते हैं, वो स्क्रैच की शुभंकर है। अगर आपको एक खाली स्क्रैच प्रोजेक्ट चालु करना हैं, तोह आप राइट क्लीक और **डिलीट** बटन दबाएं, जिस से उस बिल्ली को निकाल सकते हैं।
++ यहाँ जो आप बिल्ली स्प्राइट देख रहे हैं वो स्क्रैच की शुभंकर, यानि की मैस्कॉट है। अगर आपको एक खाली स्क्रैच प्रोजेक्ट चाहिए, तो आप राइट क्लिक करें और **delete** बटन दबाएं, जिस से आप उस बिल्ली को निकाल सकते हैं।
 
-![स्क्रीनशॉट](images/delete.png)
+![screenshot](images/delete.png)
